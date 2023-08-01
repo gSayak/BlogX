@@ -50,7 +50,7 @@ http://www.templatemo.com/tm-488-classic
                                     <a href="blog.html" class="nav-link">Blog</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="contact.html" class="nav-link">Contact</a>
+                                    <a href="index.php" class="nav-link">Login/SignUp</a>
                                 </li>
                             </ul>                        
                         </div>
